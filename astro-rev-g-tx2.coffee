@@ -36,7 +36,7 @@ module.exports =
 	supportsBlink: false
 
 	yocto:
-		machine: 'astro_rev-g-tx2'
+		machine: 'astro-rev-g-tx2'
 		image: 'resin-image-flasher'
 		fstype: 'resinos-img'
 		version: 'yocto-rocko'
